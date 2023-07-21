@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![linkedin](https://img.shields.io/badge/Linked_In_-%230A66C2?logo=linkedin&link=www.linkedin.com%2Fin%2Fyusufkaanusta%2F)
+https://www.linkedin.com/in/yusufkaanusta/
 
 
 
