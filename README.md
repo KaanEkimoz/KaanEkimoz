@@ -1,8 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/22/de/10/22de101e8b3fd2c881fd64e1667ddd51.gif)](https://kaanusta.dev)
 
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">A passionate XR/Game developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanekimoz&label=Profile%20views&color=0e75b6&style=flat" alt="kaanekimoz" /> </p>
+<h3 align="center">A passionate XR/Game developer</h3
 
 - 🔭 I’m currently working on **My Graduation Project**
 
