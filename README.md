@@ -9,9 +9,9 @@
 
 📝 I regularly write articles on [kaanusta.dev/blog](kaanusta.dev/blog)
 
-📫 How to reach me **kaanekimoz@gmail.com**
-
 📄 Know about my experiences [kaanusta.dev/resume](kaanusta.dev/resume)
+
+📫 How to reach me **kaanekimoz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
