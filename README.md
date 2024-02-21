@@ -2,10 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate XR/Game developer</h3
+                                                  
  🔭 I’m currently working on **My Graduation Project**
+ 
 👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](kaanusta.dev/portfolio)
+
 📝 I regularly write articles on [kaanusta.dev/blog](kaanusta.dev/blog)
+
 📫 How to reach me **kaanekimoz@gmail.com**
+
 📄 Know about my experiences [kaanusta.dev/resume](kaanusta.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
