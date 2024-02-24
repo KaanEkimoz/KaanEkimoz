@@ -5,11 +5,11 @@
                                                   
  🔭 I’m currently working on **My Graduation Project**
  
-👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](kaanusta.dev/portfolio)
+👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](https://kaanusta.dev/portfolio)
 
 📝 I regularly write articles on [kaanusta.dev/blog](https://kaanusta.dev/blog)
 
-📄 Know about my experiences [kaanusta.dev/resume](kaanusta.dev/resume)
+📄 Know about my experiences [kaanusta.dev/resume](https://kaanusta.dev/resume)
 
 📫 How to reach me **kaanekimoz@gmail.com**
 
