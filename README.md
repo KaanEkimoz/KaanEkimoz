@@ -7,7 +7,7 @@
  
 👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](kaanusta.dev/portfolio)
 
-📝 I regularly write articles on [kaanusta.dev/blog](href=kaanusta.dev/blog)
+📝 I regularly write articles on [kaanusta.dev/blog](https://kaanusta.dev/blog)
 
 📄 Know about my experiences [kaanusta.dev/resume](kaanusta.dev/resume)
 
