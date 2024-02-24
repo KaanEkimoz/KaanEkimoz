@@ -5,9 +5,8 @@
                                                   
  🔭 I’m currently working on **My Graduation Project**
  
-👨‍💻 All of my projects are available at kaanusta.dev/portfolio
-
-📝 I regularly write articles on [kaanusta.dev/blog](kaanusta.dev/blog)
+👨‍💻 All of my projects are available at [blog](kaanusta.dev/portfolio)
+📝 I regularly write articles on [kaanusta.dev/blog](href=kaanusta.dev/blog)
 
 📄 Know about my experiences [kaanusta.dev/resume](kaanusta.dev/resume)
 
