@@ -5,7 +5,7 @@
                                                   
  🔭 I’m currently working on **My Graduation Project**
  
-👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](kaanusta.dev/portfolio)
+👨‍💻 All of my projects are available at kaanusta.dev/portfolio
 
 📝 I regularly write articles on [kaanusta.dev/blog](kaanusta.dev/blog)
 
