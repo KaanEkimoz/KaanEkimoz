@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate XR/Game developer</h3
                                                   
- 🔭 I’m currently working on **My Graduation Project**
+ 🔭 I’m currently working on **My Own Mobile Game (It's a finance themed, UI heavy game)**
  
 👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](https://kaanusta.dev/portfolio)
 
