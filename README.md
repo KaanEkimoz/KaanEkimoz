@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate XR/Game developer</h3
                                                   
- 🔭 I’m currently working on **My Own Mobile Game (It's a finance themed, UI heavy game)**
+ 🔭 I’m currently working on **Advanced 2D Platform Controller Asset**
  
-👨‍💻 All of my projects are available at [kaanusta.dev/portfolio](https://kaanusta.dev/portfolio)
+👨‍💻 Here is my detailed portfolio: [kaanusta.dev/portfolio](https://www.canva.com/design/DAGH94AojJ4/7S1vAkgAujfTzAYtIbT3Gg/view?utm_content=DAGH94AojJ4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 📝 I regularly write articles on [kaanusta.dev/blog](https://kaanusta.dev/blog)
 
