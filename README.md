@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif?cid=6c09b952srrvht89hm6612t32map3tv037n0gqy5lpdb148q&ep=v1_gifs_search&rid=200.gif&ct=g)](https://kaanusta.dev)
+[![MasterHead](https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif)](https://kaanusta.dev)
 
 <h1 align="center">Hi 👋, I'm Kaan and Ekimoz is my nickname</h1>
 <h3 align="center">A passionate Mobile Game Developer</h3
