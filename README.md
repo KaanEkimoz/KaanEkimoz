@@ -1,9 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/22/de/10/22de101e8b3fd2c881fd64e1667ddd51.gif)](https://kaanusta.dev)
-
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate Mobile Game Developer, Note: Ekimoz is my nickname</h3
                                                   
- 🔭 I’m currently working on **Advanced 2D Platform Controller Asset**
+ 🔭 I’m currently working on **Game Development with Claude**
  
 👨‍💻 Here is my detailed portfolio: [Kaan Usta Portfolio](https://www.canva.com/design/DAGH94AojJ4/7S1vAkgAujfTzAYtIbT3Gg/view?utm_content=DAGH94AojJ4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
