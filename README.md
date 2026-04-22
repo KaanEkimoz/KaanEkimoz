@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center"> Note: Ekimoz is my nickname</h3
                                                   
- 🔭 I’m currently working on **A mobile game called "Brick Game" a game like Extended Tetris, /n 
+ 🔭 I’m currently working on **A mobile game called "Brick Game" a game like Extended Tetris, 
  A mobile focused game called "Fantasy Defence" a mobile focused but also PC friendly Unit Defence Game*
  
 👨‍💻 Here is my detailed portfolio: [Kaan Usta Portfolio](https://www.canva.com/design/DAGH94AojJ4/7S1vAkgAujfTzAYtIbT3Gg/view?utm_content=DAGH94AojJ4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
