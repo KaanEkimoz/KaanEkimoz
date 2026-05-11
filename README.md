@@ -1,21 +1,43 @@
-<h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center"> Note: Ekimoz is my nickname</h3
-                                                  
- 🔭 I’m currently working on **A mobile game called "Brick Game" a game like Extended Tetris, 
- A mobile focused game called "Fantasy Defence" a mobile focused but also PC friendly Unit Defence Game*
- 
-👨‍💻 Here is my detailed portfolio: [Kaan Usta Portfolio](https://www.canva.com/design/DAGH94AojJ4/7S1vAkgAujfTzAYtIbT3Gg/view?utm_content=DAGH94AojJ4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<h1 align="center">Hi, I'm Kaan</h1>
+<p align="center"><i>Yusuf Kaan Usta — also known online as <b>Ekimoz</b></i></p>
 
-📄 Know about my experiences [Kaan Usta Resume](https://kaanusta.dev/resume)
+---
 
-📫 How to reach me **kaanekimoz@gmail.com**
+### About me
 
-<h3 align="left">Connect with me:</h3>
+I'm a game developer focused on building polished, performance-conscious experiences with **Unity** and **C#**. My background spans gameplay programming, mobile optimization, and shipping production-ready titles end-to-end.
+
+### What I'm working on
+
+- **Brick Game** — A mobile arcade puzzle game inspired by extended Tetris mechanics.
+- **Fantasy Defence** — A mobile-first (PC-friendly) unit defence game with a fantasy setting.
+
+### Links
+
+- 🌐 **Personal website:** [kaanusta.dev](https://kaanusta.dev)
+- 🎨 **Portfolio:** [kaanusta.dev/portfolio](https://kaanusta.dev/portfolio)
+- ✉️ **Email:** [kaanekimoz@gmail.com](mailto:kaanekimoz@gmail.com)
+
+### Connect with me
+
 <p align="left">
-<a href="https://twitter.com/kaanekimoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaanekimoz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yusufkaanusta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufkaanusta" height="30" width="40" /></a>
-<a href="https://instagram.com/kaanekimoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanekimoz" height="30" width="40" /></a>
+<a href="https://kaanusta.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-kaanusta.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="kaanusta.dev" height="28" /></a>
+<a href="https://linkedin.com/in/yusufkaanusta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufkaanusta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Tech stack
+
+<p align="left">
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaanEkimoz&show_icons=true&hide_border=true&theme=default" alt="Kaan's GitHub stats" />
+</p>
