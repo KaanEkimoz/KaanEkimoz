@@ -35,5 +35,9 @@ I'm a game developer focused on building polished, performance-conscious experie
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaanEkimoz&show_icons=true&hide_border=true&theme=default" alt="Kaan's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaanEkimoz&theme=default" alt="Kaan's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KaanEkimoz&hide_border=true&theme=default" alt="Kaan's GitHub streak" />
 </p>
