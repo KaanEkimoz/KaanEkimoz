@@ -9,8 +9,9 @@ I'm a game developer focused on building polished, performance-conscious experie
 
 ### What I'm working on
 
-- **Brick Game** — A mobile arcade puzzle game inspired by extended Tetris mechanics.
-- **Fantasy Defence** — A mobile-first (PC-friendly) unit defence game with a fantasy setting.
+- **Brick Game** ![Released](https://img.shields.io/badge/status-released-2ea44f?style=flat) — A mobile arcade puzzle game inspired by extended Tetris mechanics.
+- **Fantasy Defence** ![Prototype](https://img.shields.io/badge/status-prototype-f59e0b?style=flat) — A mobile-first (PC-friendly) unit defence game with a fantasy setting.
+- **Financial Literacy Game** ![In Development](https://img.shields.io/badge/status-in%20development-1f6feb?style=flat) — A mobile game designed to teach financial literacy through engaging gameplay.
 
 ### Links
 
