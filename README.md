@@ -16,7 +16,7 @@ I'm a game developer focused on building polished, performance-conscious experie
 ### Links
 
 - 🌐 **Personal website:** [kaanusta.dev](https://kaanusta.dev)
-- 🎨 **Portfolio:** [kaanusta.dev/portfolio](https://kaanusta.dev/portfolio)
+- 🎨 **Portfolio:** [kaanusta.dev/projects](https://kaanusta.dev/projects)
 - ✉️ **Email:** [kaanekimoz@gmail.com](mailto:kaanekimoz@gmail.com)
 
 ### Connect with me
